@@ -1,0 +1,16 @@
+footer {
+  background-color: green;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+div {
+  margin-top: 10px;
+}
+
+a {
+  color: greenyellow;
+  margin: 10px;
+  text-decoration: none;
+}
